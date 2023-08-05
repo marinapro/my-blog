@@ -1,2 +1,1 @@
 Django~=3.2.20
-python-dotenv-1.0.0
